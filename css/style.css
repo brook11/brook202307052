@@ -1,0 +1,33 @@
+
+.box{
+     height: 150px;
+     width: 150px;
+     background: #000;
+     border-radius: 50%;
+     border: 10px solid blue;
+     text-align: center;
+     color: #fff;
+
+
+}
+
+.box2{
+    height: 150px;
+    width: 250px;
+    /* background: linear-gradient(#000,yellow); */
+    background: -webkit-linear-gradient(left,#000,yellow);
+
+}
+
+.box3{
+    height: 150px;
+    width: 250px;
+    background: green;
+    box-shadow: 20px 20px 20px gray;
+}
+
+
+
+
+
+

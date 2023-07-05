@@ -1,0 +1,32 @@
+
+
+p{
+    color: red;
+}
+
+.box{
+    color:blue;
+
+
+}
+
+.box2{
+    color:yellow;
+}
+
+.header p{
+    color:pink;
+
+}
+
+#foooter{
+    color:green;
+
+}
+
+.important{
+    color:green !important;
+}
+
+
+
